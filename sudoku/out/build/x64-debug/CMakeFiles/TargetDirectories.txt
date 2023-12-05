@@ -1,0 +1,5 @@
+C:/Users/Sirkin/Desktop/CMakeProject9/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sirkin/Desktop/CMakeProject9/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Sirkin/Desktop/CMakeProject9/out/build/x64-debug/CMakeProject9/CMakeFiles/CMakeProject9.dir
+C:/Users/Sirkin/Desktop/CMakeProject9/out/build/x64-debug/CMakeProject9/CMakeFiles/edit_cache.dir
+C:/Users/Sirkin/Desktop/CMakeProject9/out/build/x64-debug/CMakeProject9/CMakeFiles/rebuild_cache.dir
